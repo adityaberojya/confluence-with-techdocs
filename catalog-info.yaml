@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: handson
+  name: confluence-with-techdocs
   description: handson
   annotations:
     github.com/project-slug: adityaberojya/docs-repo

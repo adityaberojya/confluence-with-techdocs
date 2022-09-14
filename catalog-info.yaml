@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: confluence-with-techdocs
-  description: handson
+  description: visualizing confluence docs in tech docs
   annotations:
     github.com/project-slug: adityaberojya/docs-repo
     backstage.io/techdocs-ref: dir:.

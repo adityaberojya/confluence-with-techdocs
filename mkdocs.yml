@@ -1,13 +1,13 @@
 site_name: 'Deloitte Documentation'
 
 nav:
-  - Home: index.md
-  - Page-1: Page-1.md
-  - Page-2: Page-2.md
-  - Page-3: Page-3.md
-  - Page-4: Page-4.md
-  - Page-5: Page-5.md
-  - Page-6: pic.md
+  - Home: https://demo-app-2.atlassian.net/wiki/spaces/MYS/pages/983052/Cars
+#   - Page-1: Page-1.md
+#   - Page-2: Page-2.md
+#   - Page-3: Page-3.md
+#   - Page-4: Page-4.md
+#   - Page-5: Page-5.md
+#   - Page-6: pic.md
   
 
 plugins:

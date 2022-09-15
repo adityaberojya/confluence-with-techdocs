@@ -4,7 +4,7 @@ metadata:
   name: confluence-with-techdocs
   description: visualizing confluence docs in tech docs
   annotations:
-    github.com/project-slug: adityaberojya/docs-repo
+    github.com/project-slug: adityaberojya/confluence-with-techdocs
     external: https://demo-app-2.atlassian.net/wiki/spaces/MYS/pages/983052/Cars
 spec:
   type: documentation

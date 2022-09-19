@@ -4,7 +4,7 @@ nav:
 #   - Home: https://demo-app-2.atlassian.net/wiki/spaces/MYS/pages/983052/Cars
 #   - Home: index.md
   - Page-1: https://demo-app-2.atlassian.net/wiki/spaces/MYS/pages/983052/Cars
-  - Page-2: https://demo-app-2.atlassian.net/wiki/spaces/MYS/pages/753665/Indian+Cities
+  - Page-2: Cars.md
 #   - Page-3: Page-3.md
 #   - Page-4: Page-4.md
 #   - Page-5: Page-5.md
